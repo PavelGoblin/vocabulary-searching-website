@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 # Project Name: Lingo Bingo.
-## Live Link: https://assignment-9-blush.vercel.app/
+## Live Link: [https://assignment-9-blush.vercel.app/](https://vocabulary-searching-website-llqi6fzl6.vercel.app/)
 ###  NPM Packages Used
 #### react, 
 #### react-dom, 
